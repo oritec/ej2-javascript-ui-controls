@@ -1,6 +1,6 @@
 {
-	"name": "@syncfusion/ej2-documenteditor",
-	"version": "18.2.58",
+	"name": "@oritec/ej2-documenteditor",
+	"version": "0.0.1",
 	"description": "Feature-rich document editor control with built-in support for context menu, options pane and dialogs.",
 	"keywords": [
 		"ej2",
@@ -59,7 +59,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/syncfusion/ej2-javascript-ui-controls.git"
+		"url": "https://github.com/oritec/ej2-javascript-ui-controls.git"
 	},
 	"typings": "index.d.ts"
 }
